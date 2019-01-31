@@ -1,0 +1,22 @@
+/* --------------- FONTS ---------------- */
+$base-font-size: 1.1em;
+
+##{$prfx}-admin-wrapper {
+  width: 45.44445%;
+  min-width: 800px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 500;
+  color: $dark-blue;
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+  }
+  h2 {
+    font-size: 1.4em;
+  }
+  a {
+    color: $blue;
+  }
+  p {
+    font-size: $base-font-size;
+  }
+}

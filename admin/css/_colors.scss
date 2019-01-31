@@ -1,0 +1,72 @@
+/* -------------- COLORS -------------- */
+$white: #FFF;
+$grey: #CACACC;
+$blue: #4DA1FF;
+$dark-blue: #001E40;
+$green: #00D493;
+$red: #FF4980;
+$orange: #FF9500;
+
+.#{$prfx}-white {
+    color: $white !important;
+}
+.#{$prfx}-bg-white {
+    background-color: $white;
+}
+.#{$prfx}-border-white {
+    border: 1px solid $white;
+}
+.#{$prfx}-grey {
+    color: $grey !important;
+}
+.#{$prfx}-bg-grey {
+    background-color: $grey;
+}
+.#{$prfx}-border-grey {
+    border: 1px solid $grey;
+}
+.#{$prfx}-blue {
+    color: $blue !important;
+}
+.#{$prfx}-bg-blue {
+    background-color: $blue;
+}
+.#{$prfx}-border-blue {
+    border: 2px solid $blue;
+}
+.#{$prfx}-dark-blue {
+    color: $dark-blue !important;
+}
+.#{$prfx}-bg-dark-blue {
+    background-color: $dark-blue;
+}
+.#{$prfx}-border-dark-blue {
+    border: 1px solid $dark-blue;
+}
+.#{$prfx}-green {
+    color: $green !important;
+}
+.#{$prfx}-bg-green {
+    background-color: $green;
+}
+.#{$prfx}-border-green {
+    border: 1px solid $green;
+}
+.#{$prfx}-red {
+    color: $red !important;
+}
+.#{$prfx}-bg-red {
+    background-color: $red;
+}
+.#{$prfx}-border-red {
+    border: 1px solid $red;
+}
+.#{$prfx}-orange {
+    color: $orange !important;
+}
+.#{$prfx}-bg-orange {
+    background-color: $orange;
+}
+.#{$prfx}-border-orange {
+    border: 1px solid $orange;
+}
