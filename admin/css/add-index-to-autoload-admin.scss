@@ -9,6 +9,7 @@ $prfx: aital;
 /* Header */
 ##{$prfx}-header {
     margin-bottom: 25px;
+    position: relative;
     > * {
         display: inline;
     }

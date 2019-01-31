@@ -82,7 +82,8 @@
 /* -------------- CONTENT -------------- */
 /* Header */
 #aital-header {
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+  position: relative; }
   #aital-header > * {
     display: inline; }
   #aital-header #aital-logo {
