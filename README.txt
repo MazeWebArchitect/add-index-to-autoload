@@ -32,7 +32,7 @@ If you encounter any issues, please leave a support ticket on the [WordPress.org
 
 ### Bug reports
 
-Bug reports for this Plugin are [welcomed on GitHub](https://github.com/Yoast/wordpress-seo).
+Bug reports for this Plugin are [welcomed on GitHub](https://github.com/MazeWebArchitect/add-index-to-autoload).
 Please note GitHub is not a support forum, and issues that aren’t properly qualified as bugs will be closed.
 
 == Installation ==
