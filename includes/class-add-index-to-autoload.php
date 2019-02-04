@@ -58,8 +58,8 @@ class Add_Index_To_Autoload {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-		if ( defined( 'PLUGIN_NAME_VERSION' ) ) {
-			$this->version = PLUGIN_NAME_VERSION;
+		if ( defined( 'AITAL_VERSION' ) ) {
+			$this->version = AITAL_VERSION;
 		} else {
 			$this->version = '1.0.0';
 		}
